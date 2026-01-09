@@ -1,28 +1,33 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | REST APIs</h3>
+<h3 align="center">Java Backend Developer | Spring Boot | REST APIs | JWT Security</h3>
+
+<p align="center">
+Java Backend Developer with hands-on experience building secure, real-world government and startup-style applications using Spring Boot, Spring Security, JPA/Hibernate, and MySQL.
+</p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Java Backend & Full Stack projects**
-- 🌱 I’m currently learning **Microservices & System Design**
-- 👯 I’m looking to collaborate on **real-world Java / Spring Boot projects**
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MySQL, DSA**
-- ⚡ Goal: **Become industry-ready backend engineer**
+- 💼 Former **Graduate Engineer Trainee – Backend / Full Stack** at **MPSEDC, Bhopal**
+- 🔧 Built and maintained **enterprise-level government applications**
+- 🔐 Strong in **JWT Authentication, RBAC, REST APIs, Database Design**
+- 🌱 Currently learning **Microservices & Cloud-ready backend systems**
+- 🎯 Career Goal: **Industry-ready Java Backend Engineer**
 
 ---
 
-## 🌐 Connect with me
+## 🏢 Experience
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-<a href="https://github.com/abhishek262628" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-</a>
-</p>
+**M.P. State Electronics Development Corporation (MPSEDC), Bhopal**  
+*Graduate Engineer Trainee – Backend / Full Stack Developer (Jun 2025 – Dec 2025)*
+
+- Worked on a **government MSME portal** using Spring Boot (monolithic multi-module architecture)  
+- Implemented **JWT authentication and Role-Based Access Control (RBAC)**  
+- Developed **REST APIs** using DTO architecture with **global exception handling**  
+- Designed and optimized **MySQL schemas & queries**  
+- Integrated **Angular frontend with backend services**  
+- Collaborated with senior developers on **production-grade features**
 
 ---
 
@@ -31,19 +36,44 @@
 ### 🚀 Backend
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-darkgreen?style=for-the-badge&logo=springsecurity)
+![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss)
 
 ### 🛠 Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![STS](https://img.shields.io/badge/STS-purple?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 BlogEra – Blogging Platform  
+**Spring Boot | MySQL | JPA | Angular | Lombok**
+
+- Blogging platform with **user, post, and comment management**
+- REST APIs with **pagination & sorting**
+- Clean layered architecture with **DTOs & ModelMapper**
+
+---
+
+### 🔹 ContactMate – Contact Management System  
+**Spring Boot | MySQL | JPA | Thymeleaf | Tailwind CSS**
+
+- Secure contact system with **CRUD, email verification & validations**
+- Implemented **entity relationships & optimized repositories**
+- Responsive UI integrated with backend services
 
 ---
 
@@ -60,14 +90,18 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-- 🔹 **Task Management System – Spring Boot + MySQL**
-- 🔹 **Secure Blog API – JWT + Spring Security**
-- 🔹 **REST User Management System**
-
-👉 Check my repositories to see real implementations.
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek262628" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/abhishek262628" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
-⭐ If you like my work, consider following me!
+⭐ *Actively looking for Java Backend / Full Stack opportunities. Open to startup & product-based teams.*
+following me!
