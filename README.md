@@ -12,8 +12,8 @@ Java Backend Developer with hands-on experience building secure, real-world gove
 - 💼 Former **Graduate Engineer Trainee – Backend / Full Stack** at **MPSEDC, Bhopal**
 - 🔧 Built and maintained **enterprise-level government applications**
 - 🔐 Strong in **JWT Authentication, RBAC, REST APIs, Database Design**
-- 🌱 Currently learning **Microservices & Cloud-ready backend systems**
-- 🎯 Career Goal: **Industry-ready Java Backend Engineer**
+- 🌱 Currently learning **Microservices & cloud-ready backend systems**
+- 🎯 Career goal: **Backend Engineer in a product or technology-driven team**
 
 ---
 
@@ -22,12 +22,12 @@ Java Backend Developer with hands-on experience building secure, real-world gove
 **M.P. State Electronics Development Corporation (MPSEDC), Bhopal**  
 *Graduate Engineer Trainee – Backend / Full Stack Developer (Jun 2025 – Dec 2025)*
 
-- Worked on a **government MSME portal** using Spring Boot (monolithic multi-module architecture)  
-- Implemented **JWT authentication and Role-Based Access Control (RBAC)**  
-- Developed **REST APIs** using DTO architecture with **global exception handling**  
-- Designed and optimized **MySQL schemas & queries**  
+- Contributed to backend development of a **government MSME portal** using Spring Boot in a monolithic multi-module architecture  
+- Implemented **JWT-based authentication and Role-Based Access Control (RBAC)** with Spring Security  
+- Developed and maintained **RESTful APIs** using DTO architecture and **centralized exception handling**  
+- Designed and optimized **MySQL schemas and queries** for performance and data integrity  
 - Integrated **Angular frontend with backend services**  
-- Collaborated with senior developers on **production-grade features**
+- Collaborated with senior engineers on **production-grade features**
 
 ---
 
@@ -62,18 +62,18 @@ Java Backend Developer with hands-on experience building secure, real-world gove
 ### 🔹 BlogEra – Blogging Platform  
 **Spring Boot | MySQL | JPA | Angular | Lombok**
 
-- Blogging platform with **user, post, and comment management**
-- REST APIs with **pagination & sorting**
-- Clean layered architecture with **DTOs & ModelMapper**
+- Developed a blogging platform with **user, post, and comment management**
+- Built REST APIs with **pagination, sorting, and layered architecture**
+- Implemented **DTOs, ModelMapper, and clean service-based design**
 
 ---
 
 ### 🔹 ContactMate – Contact Management System  
 **Spring Boot | MySQL | JPA | Thymeleaf | Tailwind CSS**
 
-- Secure contact system with **CRUD, email verification & validations**
-- Implemented **entity relationships & optimized repositories**
-- Responsive UI integrated with backend services
+- Built a secure contact management system with **CRUD operations, email verification, and server-side validation**
+- Implemented **entity relationships and optimized data access layers**
+- Integrated a **responsive UI with backend services** and enforced access control
 
 ---
 
@@ -103,5 +103,5 @@ Java Backend Developer with hands-on experience building secure, real-world gove
 
 ---
 
-⭐ *Actively looking for Java Backend / Full Stack opportunities. Open to startup & product-based teams.*
-following me!
+⭐ **Actively seeking Java Backend / Full Stack opportunities. Open to startup, service-based, and product-based teams.**
+
